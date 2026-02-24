@@ -15,7 +15,7 @@
 ---
 ### GitHub Статистика
 ![github activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voviq&theme=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voviq&layout=compact)
+
 
 
 
