@@ -54,14 +54,3 @@ Stavropol, Russia
 
 ---
 
-## 🚀 Goals
-
-- Improve my C++ skills  
-- Build strong portfolio projects  
-- Become a confident Software Engineer  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</p>
