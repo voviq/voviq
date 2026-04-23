@@ -1,40 +1,33 @@
-<h1 align="center" style="font-size:48px;">Hello 👋, my name is Vladimir!</h1>
+<h1 align="center" style="font-size:48px;">Здравствуйте 👋, меня зовут Владимир!</h1>
 
-<h2 align="center" style="font-size:28px;">Junior C++ Developer</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
-<hr>
-
-<h2 style="font-size:30px;">👨‍💻 About Me</h2>
+<h2 style="font-size:30px;">👨‍💻 Обо мне:</h2>
 
 <p style="font-size:18px;">
-I am a novice C++ developer.
+Начинающий C++-разработчик. 
+  
+  Путь в IT начался со школы: увлёкся олимпиадным программированием на C++ и с того момента связал жизнь с этим языком. Увлекаться программированием начал поздно — в 10 классе. Успел изучить некую базу, но в 11 классе решил бросить и сосредоточиться на экзаменах.
 
-My journey into IT began at school, where I became fascinated with olympiad programming in C++ and have been involved with this language ever since.
+Однако на втором курсе решил возобновить процесс; также продолжаю решать олимпиадные и увлекательные задачки. Программирование приносит удовольствие, заставляет шевелить мозгами, изучать новое, ведь, как сказал мой первый преподаватель по программированию: «Если ты уверен, что знаешь язык программирования, ты его не знаешь».
 
-However, when it was time for my final exams and university entrance exams, programming took a back seat — but I soon resumed my studies.
-
-I started working seriously with this language in <b>2024</b> and haven't stopped to this day 🚀
 </p>
 
 <hr>
 
-<h2 style="font-size:30px;">🎓 Education</h2>
+<h2 style="font-size:30px;">🎓 Образование</h2>
 
 <p style="font-size:18px;">
-<b>Stavropol State Agrarian University</b>
+<b>Ставропольский Государственный Аграрный Университет</b>
 
-Stavropol, Russia
 
-2023 – 2027
+Ставрополь, Россия
+
+Направление подготовки 35.03.06: "Автоматизация и роботизация технологических процессов", 2023 – 2027
+
 </p>
 
 <hr>
 
-<h2 style="font-size:30px;">🛠 My Technology Stack</h2>
+<h2 style="font-size:30px;">🛠 Мой стек технологий</h2>
 
 <h3 style="font-size:22px;">💻 Languages</h3>
 
